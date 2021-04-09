@@ -6,4 +6,16 @@ This can be used as reference for small children and Beginners to 2D animation u
 
 ![](images/screenshot1.png)
 
+![](images/screenshot2.png)
+
+![](images/screenshot3.png)
+
+![](images/screenshot4.png)
+
+![](images/screenshot5.png)
+
+
+
+
+
 
